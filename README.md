@@ -1,8 +1,9 @@
 # MAS-MP1
 Modelling and System Analysis
 
-Mini Projekty
-Ich celem jest praktyczne sprawdzenie zrozumienia sposobów implementacji
+Mini Projekt:
+
+Celem jest praktyczne sprawdzenie zrozumienia sposobów implementacji
 poszczególnych konstrukcji z modelu pojęciowego (klasy, asocjacje, ekstensja,
 itp.) oraz współpracy z modelem relacyjnym.
 
